@@ -1,3 +1,10 @@
 /* Feuille de style du projet SIO Connect */
 
 /* Le style sera complété pendant le TD. */
+/* Feuille de style du projet SIO Connect */
+body{font-family:'Poppins',sans-serif;background:linear-gradient(135deg,#f5f7ff,#e8f0ff);
+    color:#222;margin:0;padding:30px}h1{color:#5b21b6;text-align:center;font-size:2.5rem;
+    text-shadow:2px 2px 8px #bbb}section{background:#fff;padding:25px;margin:20px auto;border-radius:15px;max-width:900px;
+        box-shadow:0 8px 25px rgba(0,0,0,.1);border-left:6px solid #7c3aed}section h2{color:#7c3aed;border-bottom:2px solid #ddd;padding-bottom:10px}
+
+/* Le style sera complété pendant le TD. */
